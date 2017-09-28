@@ -1,0 +1,49 @@
+public class GameConstants {
+
+    public static final int MAX_ROSTER_SIZE = 15;
+    public static final int MAX_BOXSCORE_ROWS = 13;
+    public static final int MAX_BOXSCORE_COLUMNS = 15;
+    public static final int INITIAL_ROSTERSIZE = 0;
+    public static final int MAX_TIMEOUTS = 6;
+    public static final int MAX_PF = 6;
+    public static final int MAX_TEAMS_IN_GAME = 2;
+    public static final int SHOTCLOCK_RESET = 24;
+    public static final int POINT_GUARD = 1;
+    public static final int SHOOTING_GUARD = 2;
+    public static final int SMALL_FORWARD = 3;
+    public static final int POWER_FORWARD = 4;
+    public static final int CENTER = 5;
+    public static final int GUARD = 1;
+    public static final int FORWARD = 3;
+    public static final int JUMP_BALL = 1;
+    public static final int LIVE_GAME = 2;
+    public static final int MISSED_SHOT = 3;
+    public static final int LOOSE_BALL = 4;
+    public static final int HOME_TEAM = 1;
+    public static final int VISITOR_TEAM = 2;
+    public static final int MAX_TEAMS = 3;
+    public static final int MAX_PROBABILITY = 99;
+    public static final int STARTING_SHOOT_PROBABILITY = 1;
+    public static final int TRY_TO_SCORE = 1;
+    public static final int SHOOT = 2;
+    public static final int TURNOVER = 3;
+    public static final int BOXSCORE_MIN = 1;
+    public static final int BOXSCORE_FG = 2;
+    public static final int BOXSCORE_FGA = 3;
+    public static final int BOXSCORE_FT = 4;
+    public static final int BOXSCORE_FTA = 5;
+    public static final int BOXSCORE_ORB = 6;
+    public static final int BOXSCORE_DRB = 7;
+    public static final int BOXSCORE_TRB = 8;
+    public static final int BOXSCORE_AST = 9;
+    public static final int BOXSCORE_STL = 10;
+    public static final int BOXSCORE_BLK = 11;
+    public static final int BOXSCORE_TO = 12;
+    public static final int BOXSCORE_PF = 13;
+    public static final int BOXSCORE_PTS = 14;
+
+    public static final int ZERO_POINTS = 0;
+    public static final int ONE_POINT = 1;
+    public static final int TWO_POINTS = 2;
+    public static final int THREE_POINTS = 3;
+}
